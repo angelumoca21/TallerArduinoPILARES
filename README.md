@@ -6,7 +6,7 @@
 ## 2. Compuertas lógicas.
 [Presentación](https://www.canva.com/design/DAEChwHsu3g/vc28_TdSA5KYvejCuZoTpQ/view?utm_content=DAEChwHsu3g&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
-[Circuitos]()
+[Circuitos](https://github.com/angelumoca21/TallerArduinoPILARES/tree/main/compuertas)
 
 ## 3. Fundamentos de electrónica.
 
