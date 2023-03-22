@@ -9,7 +9,6 @@
 [Circuitos](https://github.com/angelumoca21/TallerArduinoPILARES/tree/main/compuertas)
 
 ## 3. Fundamentos de electrónica.
-
 [Presentación: electricidad](https://www.canva.com/design/DAEBNRvjL30/CJtulI4pbIXa0hxx_8as9w/view?utm_content=DAEBNRvjL30&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 ## 4. Programación en lenguaje de alto nivel utilizando una Plataforma de Desarrollo.
