@@ -11,6 +11,13 @@
 ## 3. Fundamentos de electrónica.
 [Presentación: electricidad](https://www.canva.com/design/DAEBNRvjL30/CJtulI4pbIXa0hxx_8as9w/view?utm_content=DAEBNRvjL30&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
+[Presentación: dispositivos pasivos](https://www.canva.com/design/DAEBZiBrvA4/vdMHqavQo9m4N09cCcI4sA/view?utm_content=DAEBZiBrvA4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+
+[Presentación: dispositivos activos](https://www.canva.com/design/DAEBKy_96pg/4SyA2ZHJ3sOBBRYAWiodpg/view?utm_content=DAEBKy_96pg&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+
 ## 4. Programación en lenguaje de alto nivel utilizando una Plataforma de Desarrollo.
+[Presentación: Introducción Arduino](https://www.canva.com/design/DAEDLf8KtWA/fxwwnqJKMQ1AjC1vqci7aw/view?utm_content=DAEDLf8KtWA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+
+[1.Blink]()
 
 ## 5. Robótica.
