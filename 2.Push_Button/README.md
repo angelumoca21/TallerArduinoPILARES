@@ -1,10 +1,10 @@
 ## Conexión física 2 terminales
 
-![Conexión física 2 terminales](https://github.com/angelumoca21/Arduino/blob/main/2.boton/imagenes/conexionFisica2.png)
+![ConexiónFisica2Terminales](https://github.com/angelumoca21/TallerArduinoPILARES/blob/main/2.Push_Button/imagenes/conexionFisica2.png)
 
 ## Conexión física 4 terminales
 
-![Conexión física 4 terminales](https://github.com/angelumoca21/Arduino/blob/main/2.boton/imagenes/conexionFisica4.png)
+![ConexiónFisica4Terminales](https://github.com/angelumoca21/TallerArduinoPILARES/blob/main/2.Push_Button/imagenes/conexionFisica4.png)
 
 ## Diagrama
-![Diagrama](https://github.com/angelumoca21/Arduino/blob/main/2.boton/imagenes/diagrama.png)
+![Diagrama](https://github.com/angelumoca21/TallerArduinoPILARES/blob/main/2.Push_Button/imagenes/diagrama.png)

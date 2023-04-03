@@ -1,6 +1,6 @@
 ## Conexión física
 
-![ConexiónFisica](https://github.com/angelumoca21/Arduino/blob/main/1.blink/imagenes/conexionFisica.png)
+![ConexionFisica](https://github.com/angelumoca21/TallerArduinoPILARES/blob/main/1.Blink/imagenes/conexionFisica.png)
 
 ## Diagrama
-![Diagrama](https://github.com/angelumoca21/Arduino/blob/main/1.blink/imagenes/diagrama.png)
+![Diagrama](https://github.com/angelumoca21/TallerArduinoPILARES/blob/main/1.Blink/imagenes/diagrama.png)
