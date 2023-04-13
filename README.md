@@ -18,10 +18,14 @@
 ## 4. Programación en lenguaje de alto nivel utilizando una Plataforma de Desarrollo.
 [Presentación: Introducción Arduino](https://www.canva.com/design/DAEDLf8KtWA/fxwwnqJKMQ1AjC1vqci7aw/view?utm_content=DAEDLf8KtWA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
+[Presentación: Entradas y salidas digitales](https://www.canva.com/design/DAEEy4uHdLo/023b1lvtF_hJpoWnJrHagQ/view?utm_content=DAEEy4uHdLo&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+
 [1.Blink](https://github.com/angelumoca21/TallerArduinoPILARES/tree/main/1.Blink)
 
 [1.1.Semaforo](https://github.com/angelumoca21/TallerArduinoPILARES/tree/main/1.1Semaforo)
 
 [2.Push Button](https://github.com/angelumoca21/TallerArduinoPILARES/tree/main/2.Push_Button)
+
+[3.Codificador 7 segmentos](https://github.com/angelumoca21/TallerArduinoPILARES/tree/main/3.Codificador)
 
 ## 5. Robótica.
