@@ -28,4 +28,10 @@
 
 [3.Codificador 7 segmentos](https://github.com/angelumoca21/TallerArduinoPILARES/tree/main/3.Codificador)
 
+[4.Sensor ultrasonico]()
+
+[5.LCD 16x2]()
+
+[6.Puente H]()
+
 ## 5. Robótica.
