@@ -30,8 +30,8 @@
 
 [4.Sensor ultrasonico]()
 
-[5.LCD 16x2]()
+[5.LCD 16x2](https://github.com/angelumoca21/TallerArduinoPILARES/tree/main/5.LCD)
 
-[6.Puente H]()
+[6.Puente H](https://github.com/angelumoca21/TallerArduinoPILARES/tree/main/6.Puente%20H)
 
 ## 5. Robótica.
