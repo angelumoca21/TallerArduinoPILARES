@@ -16,7 +16,7 @@
 [Presentación: dispositivos activos](https://www.canva.com/design/DAEBKy_96pg/4SyA2ZHJ3sOBBRYAWiodpg/view?utm_content=DAEBKy_96pg&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 ## 4. Programación en lenguaje de alto nivel utilizando una Plataforma de Desarrollo.
-[Cheat sheet]()
+[Cheat sheet](https://github.com/angelumoca21/TallerArduinoPILARES/tree/main/CheatSheet)
 
 [Presentación: Introducción Arduino](https://www.canva.com/design/DAEDLf8KtWA/fxwwnqJKMQ1AjC1vqci7aw/view?utm_content=DAEDLf8KtWA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 

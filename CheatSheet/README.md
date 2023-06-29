@@ -1,23 +1,23 @@
 # Cheat Sheet Arduino
 
 ## Pinout Arduino Nano
-![pinoutNano]()
+![pinoutNano](https://github.com/angelumoca21/TallerArduinoPILARES/blob/main/img/pinoutNANO.png)
 
 ## Pinout Arduino UNO
-![pinoutUNO]()
+![pinoutUNO](https://github.com/angelumoca21/TallerArduinoPILARES/blob/main/img/pinoutUNO.png)
 
 ## Tipos de señales:
 
 - ### Digitales:valores finitos
-![senalDigital]()
+![senalDigital](https://github.com/angelumoca21/TallerArduinoPILARES/blob/main/img/digital.png)
 
 - ### Analógicas:infinitos valores.
-![senalAnalogica]()
+![senalAnalogica](https://github.com/angelumoca21/TallerArduinoPILARES/blob/main/img/analogica.png)
 
 ## Estructura básica del código de Arduino
 
 El código de arduino se realizan en 2 estructuras principales: **void setup** y **void loop**
-![codigoArduino]()
+![codigoArduino](https://github.com/angelumoca21/TallerArduinoPILARES/blob/main/img/codigoArduino.png)
 
 - ### void setup:
 Se ejecuta 1 sola vez, en este bloque se configuran los pines como entrada (INPUT) o salida (OUTPUT). 
@@ -27,7 +27,7 @@ Estos pines se deben de configurar como salidas (ACTUADORES) o entradas (SENSORE
 
 `pinMode(NúmeroPin,INPUT u OUTPUT);`
 
-![entradasSalidas]()
+![entradasSalidas](https://github.com/angelumoca21/TallerArduinoPILARES/blob/main/img/ArduinoInputOutput.jpg)
 
 - ### void loop:
 Se ejecuta inifinitamente mientras el Arduino tenga energía, aquí se realiza el código principal que se quiere ejecutar.
