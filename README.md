@@ -16,6 +16,8 @@
 [Presentación: dispositivos activos](https://www.canva.com/design/DAEBKy_96pg/4SyA2ZHJ3sOBBRYAWiodpg/view?utm_content=DAEBKy_96pg&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 ## 4. Programación en lenguaje de alto nivel utilizando una Plataforma de Desarrollo.
+[Cheat sheet]()
+
 [Presentación: Introducción Arduino](https://www.canva.com/design/DAEDLf8KtWA/fxwwnqJKMQ1AjC1vqci7aw/view?utm_content=DAEDLf8KtWA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 [Presentación: Entradas y salidas digitales](https://www.canva.com/design/DAEEy4uHdLo/023b1lvtF_hJpoWnJrHagQ/view?utm_content=DAEEy4uHdLo&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
