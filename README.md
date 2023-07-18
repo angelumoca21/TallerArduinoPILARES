@@ -36,6 +36,6 @@
 
 [6.Puente H](https://github.com/angelumoca21/TallerArduinoPILARES/tree/main/6.Puente%20H)
 
-[7.Bluetooth]()
+[7.Bluetooth](https://github.com/angelumoca21/TallerArduinoPILARES/tree/main/7.Bluetooth)
 
 ## 5. Robótica.
