@@ -22,7 +22,7 @@
 
 [Presentación: Entradas y salidas digitales](https://www.canva.com/design/DAEEy4uHdLo/023b1lvtF_hJpoWnJrHagQ/view?utm_content=DAEEy4uHdLo&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
-[0.Softare](https://github.com/angelumoca21/TallerArduinoPILARES/tree/main/0.Software)
+[0.Software](https://github.com/angelumoca21/TallerArduinoPILARES/tree/main/0.Software)
 
 [1.Blink](https://github.com/angelumoca21/TallerArduinoPILARES/tree/main/1.Blink)
 
