@@ -22,6 +22,8 @@
 
 [Presentación: Entradas y salidas digitales](https://www.canva.com/design/DAEEy4uHdLo/023b1lvtF_hJpoWnJrHagQ/view?utm_content=DAEEy4uHdLo&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
+[0.Software](https://github.com/angelumoca21/TallerArduinoPILARES/tree/main/0.Software)
+
 [1.Blink](https://github.com/angelumoca21/TallerArduinoPILARES/tree/main/1.Blink)
 
 [Semaforo](https://github.com/angelumoca21/TallerArduinoPILARES/tree/main/1.1Semaforo)
@@ -41,5 +43,8 @@
 [.Puente H](https://github.com/angelumoca21/TallerArduinoPILARES/tree/main/6.Puente%20H)
 
 [.Bluetooth](https://github.com/angelumoca21/TallerArduinoPILARES/tree/main/7.Bluetooth)
+
+[8.]()
+
 
 ## 5. Robótica.
