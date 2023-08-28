@@ -24,18 +24,22 @@
 
 [1.Blink](https://github.com/angelumoca21/TallerArduinoPILARES/tree/main/1.Blink)
 
-[1.1.Semaforo](https://github.com/angelumoca21/TallerArduinoPILARES/tree/main/1.1Semaforo)
+[Semaforo](https://github.com/angelumoca21/TallerArduinoPILARES/tree/main/1.1Semaforo)
 
 [2.Push Button](https://github.com/angelumoca21/TallerArduinoPILARES/tree/main/2.Push_Button)
 
-[3.Codificador 7 segmentos](https://github.com/angelumoca21/TallerArduinoPILARES/tree/main/3.Codificador)
+[3.LED RGB]()
 
-[4.Sensor ultrasonico]()
+[4.Potenciometro]()
 
-[5.LCD 16x2](https://github.com/angelumoca21/TallerArduinoPILARES/tree/main/5.LCD)
+[Codificador 7 segmentos](https://github.com/angelumoca21/TallerArduinoPILARES/tree/main/3.Codificador)
 
-[6.Puente H](https://github.com/angelumoca21/TallerArduinoPILARES/tree/main/6.Puente%20H)
+[.Sensor ultrasonico]()
 
-[7.Bluetooth](https://github.com/angelumoca21/TallerArduinoPILARES/tree/main/7.Bluetooth)
+[.LCD 16x2](https://github.com/angelumoca21/TallerArduinoPILARES/tree/main/5.LCD)
+
+[.Puente H](https://github.com/angelumoca21/TallerArduinoPILARES/tree/main/6.Puente%20H)
+
+[.Bluetooth](https://github.com/angelumoca21/TallerArduinoPILARES/tree/main/7.Bluetooth)
 
 ## 5. Robótica.
