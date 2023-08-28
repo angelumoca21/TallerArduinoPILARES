@@ -1,5 +1,5 @@
 ## Conexión física
 
-![ConexionFisica]()
+![ConexionFisica](https://github.com/angelumoca21/TallerArduinoPILARES/blob/main/LED_RGB/imagenes/rgb.png)
 
-![Bloques de programación]()
+![Bloques de programación](https://github.com/angelumoca21/TallerArduinoPILARES/blob/main/LED_RGB/imagenes/rgbBloques.png)

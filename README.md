@@ -30,9 +30,9 @@
 
 [2.Push Button](https://github.com/angelumoca21/TallerArduinoPILARES/tree/main/2.Push_Button)
 
-[3.LED RGB]()
+[3.LED RGB](https://github.com/angelumoca21/TallerArduinoPILARES/tree/main/LED_RGB)
 
-[4.Potenciometro]()
+[4.Potenciometro](https://github.com/angelumoca21/TallerArduinoPILARES/tree/main/Potenciometro)
 
 [Codificador 7 segmentos](https://github.com/angelumoca21/TallerArduinoPILARES/tree/main/3.Codificador)
 

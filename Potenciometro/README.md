@@ -2,5 +2,4 @@
 
 ![ConexionFisica]()
 
-## Diagrama
 ![Bloque de código]()
