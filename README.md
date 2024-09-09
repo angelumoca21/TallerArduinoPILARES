@@ -8,7 +8,9 @@
 
 [Presentación: dispositivos pasivos](https://www.canva.com/design/DAEBZiBrvA4/nrUhsRGE4v9JKlReh0wdCA/view?utm_content=DAEBZiBrvA4&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
-[Presentación: dispositivos activos](https://www.canva.com/design/DAEBKy_96pg/SFP0P0JjN7k-JEErOo-9Wg/view?utm_content=DAEBKy_96pg&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+[Presentación: circuitos con resistencias](https://www.canva.com/design/DAEBKb-j0g8/Sxzq36dOygrO_6yKF1hDwg/view?utm_content=DAEBKb-j0g8&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+
+[Presentación: Ley de Ohm y dispositivos activos](https://www.canva.com/design/DAEB3_b2QyE/90z9pgKbRqSy9aNydf4dgw/view?utm_content=DAEB3_b2QyE&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 ## 3. Compuertas lógicas.
 [Presentación](https://www.canva.com/design/DAEChwHsu3g/TBwrkV1XCAXD5x-IoDUheg/view?utm_content=DAEChwHsu3g&utm_campaign=designshare&utm_medium=link&utm_source=editor)
